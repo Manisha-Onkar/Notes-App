@@ -4,6 +4,12 @@ A simple and responsive Notes App built with **React.js** that lets users **add*
 
 ---
 
+## Live Demo
+
+[View Live Demo](https://6853a7e0ba9823cc08b12810--astonishing-swan-45aeb4.netlify.app/)  
+
+---
+
 ## 🚀 Features
 
 - ✅ Add new notes (with title and content)
