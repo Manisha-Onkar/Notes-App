@@ -1,4 +1,3 @@
-// ✅ CORRECT way to define and export functions
 export function getNotes() {
   const notes = localStorage.getItem("notes");
   return notes ? JSON.parse(notes) : [];
